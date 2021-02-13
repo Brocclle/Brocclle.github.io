@@ -6,10 +6,12 @@ body {
 
 .about {
     background-color: blue;
+    color: white;
     padding: 0px;
 }
 
 .projects {
     background-color: blue;
+    color: white;
     padding: 10px;
 }
